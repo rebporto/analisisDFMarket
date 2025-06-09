@@ -1,0 +1,48 @@
+Etapa 2 – Limpieza y Transformación de Datos
+
+Este proyecto forma parte del curso de Data Analyst y representa la Etapa 2, 
+centrada en el proceso completo de ETL (Extract, Transform, Load). 
+Los datos fueron extraídos mediante MySQL y tratados en Python utilizando bibliotecas como pandas, matplotlib y seaborn.
+
+
+🔍 Objetivo
+
+Realizar la limpieza, estandarización y transformación de datos de ventas, 
+desde la extracción de una base relacional hasta la generación de una base lista para el análisis.
+
+
+
+🛠️ Tecnologías utilizadas
+
+
+MySQL
+
+Python (pandas, matplotlib, seaborn)
+
+Jupyter Notebook
+
+VS Code
+
+
+
+📊 Actividades realizadas
+
+
+Extracción de datos de múltiples tablas con JOINs en SQL
+
+Exportación a CSV y lectura con pandas
+
+Limpieza de caracteres dañados en nombres de productos
+
+Conversión de fechas y creación de columnas derivadas
+
+Agrupaciones y conteos de productos
+
+Estandarización de variables numéricas con Z-score
+
+Detección de valores atípicos (outliers)
+
+Visualizaciones con barplots y residplots
+
+Generación de base final y exportación con .to_csv()
+
